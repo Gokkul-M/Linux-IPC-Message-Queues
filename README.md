@@ -27,7 +27,7 @@ Execute the C Program for the desired output.
 
 
 ## OUTPUT
-[image](https://github.com/Gokkul-M/Linux-IPC-Message-Queues/assets/144870543/729dc8a4-1cf3-4d79-b784-9b9358060867)
+![image](https://github.com/Gokkul-M/Linux-IPC-Message-Queues/assets/144870543/729dc8a4-1cf3-4d79-b784-9b9358060867)
 ![image](https://github.com/Gokkul-M/Linux-IPC-Message-Queues/assets/144870543/9c225555-4405-4221-ba17-9e526f5d0d8c)
 
 # RESULT:
